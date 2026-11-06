@@ -32,17 +32,38 @@
 // Console.WriteLine();
 
 //! Exercício 3
-Veiculo carro = new Veiculo();
+// Veiculo carro = new Veiculo();
 
-carro.Velocidade = 50;
-Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
+// carro.Velocidade = 50;
+// Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
 
-carro.Velocidade = 250;
-Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
+// carro.Velocidade = 250;
+// Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
 
-carro.Velocidade = -20;
-Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
+// carro.Velocidade = -20;
+// Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
+
+// Console.WriteLine();
+
+//! Exercício 4
+Funcionario func = new Funcionario("João", "Desenvolvedor", 2500m);
+func.ConsultarSalario();
+func.AumentarSalario(10);
+func.ConsultarSalario();
 
 Console.WriteLine();
+
+//? o "set" de salario é privado, então não podemos alterar diretamente o salário fora da classe Funcionario
+
+//! Exercício 5
+Livro l1 = new Livro();
+Livro l2 = new Livro("Dom Quixote");
+Livro l3 = new Livro("O Alquimista", "Paulo Coelho");
+Livro l4 = new Livro("1984", "George Orwell", 328);
+
+l1.ExibirDados();
+l2.ExibirDados();
+l3.ExibirDados();
+l4.ExibirDados();
 
 
