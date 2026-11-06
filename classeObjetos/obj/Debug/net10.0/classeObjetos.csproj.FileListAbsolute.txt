@@ -12,3 +12,4 @@ C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\re
 C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.pdb
 C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.genruntimeconfig.cache
 C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\ref\classeObjetos.dll
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.sourcelink.json
