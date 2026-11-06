@@ -1,0 +1,14 @@
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\bin\Debug\net10.0\classeObjetos.exe
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\bin\Debug\net10.0\classeObjetos.deps.json
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\bin\Debug\net10.0\classeObjetos.runtimeconfig.json
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\bin\Debug\net10.0\classeObjetos.dll
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\bin\Debug\net10.0\classeObjetos.pdb
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.AssemblyInfoInputs.cache
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.AssemblyInfo.cs
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.dll
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\refint\classeObjetos.dll
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.pdb
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\classeObjetos.genruntimeconfig.cache
+C:\Users\42820593895\Desktop\ClassesObejtosEX\classeObjetos\obj\Debug\net10.0\ref\classeObjetos.dll
