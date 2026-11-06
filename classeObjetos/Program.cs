@@ -19,15 +19,29 @@
 
 
 //! Exercício 2
-Calculadora calc = new Calculadora();
-double a = 10;
-double b = 0;
+// Calculadora calc = new Calculadora();
+// double a = 10;
+// double b = 0;
 
-Console.WriteLine($"Soma: {calc.Somar(a, b)}");
-Console.WriteLine($"Subtração: {calc.Subtrair(a, b)}");
-Console.WriteLine($"Multiplicação: {calc.Multiplicar(a, b)}");
+// Console.WriteLine($"Soma: {calc.Somar(a, b)}");
+// Console.WriteLine($"Subtração: {calc.Subtrair(a, b)}");
+// Console.WriteLine($"Multiplicação: {calc.Multiplicar(a, b)}");
 
-Console.WriteLine($"Divisão: {Calculadora.Dividir(a, b)}");
+// Console.WriteLine($"Divisão: {Calculadora.Dividir(a, b)}");
+
+// Console.WriteLine();
+
+//! Exercício 3
+Veiculo carro = new Veiculo();
+
+carro.Velocidade = 50;
+Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
+
+carro.Velocidade = 250;
+Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
+
+carro.Velocidade = -20;
+Console.WriteLine($"Velocidade: {carro.Velocidade} km/h");
 
 Console.WriteLine();
 
